@@ -9,9 +9,9 @@ __pycache__/
 venv/
 .venv/
 
-#For now ignore agents & dashboard
-agents/
+#For now ignore tests & dashboard
 dashboard/
+tests/
 
 # OS
 .DS_Store
