@@ -1,0 +1,17 @@
+# Secrets
+.env
+*.pem
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+#For now ignore agents & dashboard
+agents/
+dashboard/
+
+# OS
+.DS_Store
